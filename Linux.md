@@ -17,4 +17,6 @@
  * Linux is completely free as well as GNU is free beacause of that, many developers and researchers started to contribute different packages of GNU project.
  * _GNU_ & _LINUX_ came together and they developed **GNU/Linux** O.S. this is the first Operating system on Linux Kernel.
 
+ ![Linux History Picture](https://gitlab.com/TejasParab97/missingskillgrind_tejasparab/-/blob/master/Images%20and%20Screenshots/Linux%20History.jpg)
+
 
