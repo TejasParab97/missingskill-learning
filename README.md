@@ -1,2 +1,0 @@
-# MissingSkillGrind_TejasParab
-
