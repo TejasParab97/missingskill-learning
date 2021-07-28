@@ -1,6 +1,6 @@
 # 1. Linux
 
- **_History of Unix_**
+ **_HISTORY OF UNIX_**
 
  * In 1970 , **BellLab** started resrearch on computers. During 1 years of research they created system known as **UNIX**.but , they are very costly.
  * In 1980 , One of the researcher **Richard Stallman** from _MIT UNIVERSITY_ started his research on free software.
