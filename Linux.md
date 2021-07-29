@@ -1,6 +1,6 @@
-# 1. Linux
+#  Linux
 
- **_History of Unix_**
+**(1) _HISTORY OF UNIX_**
 
  * In 1970 , **BellLab** started resrearch on computers. During 1 years of research they created system known as **UNIX**.but , they are very costly.
  * In 1980 , One of the researcher **Richard Stallman** from _MIT UNIVERSITY_ started his research on free software.
@@ -10,7 +10,7 @@
 
  ___
  
- **_INTRODUCTION TO LINUX_**
+ **(2) _INTRODUCTION TO LINUX_**
 
  * In 1990, Finnish (Finland) Scientist named as , **Linus torvalds** doing some research on Maths & Physics , during research He introduced new Kernel known as **Linux**.
  >Kernel is nothing but, core of operating system. 
@@ -22,7 +22,7 @@
 
  ---
  
- **_ADVANTAGES OF LINUX_**
+ **(3) _ADVANTAGES OF LINUX_**
  
  1. ###  Free Software Licensing
 
@@ -63,7 +63,7 @@
 
 ---
 
-**_LINUX BASIC COMMANDS_**
+**(4) _LINUX BASIC COMMANDS_**
 
 | Command  |  Satnds For |  Function                       |
 | :-------:  | :-----------: | ------------------:                         |
@@ -91,13 +91,57 @@
 ---
 
 
-**_LINUX COMMANDS & THEIR FLAGS WITH EXAMPLE_**
+**(5) _LINUX COMMANDS & THEIR FLAGS WITH EXAMPLE_**
 
- ## (1) ls command & flags
-* ### **ls-a**
+   * ### ls command & flags
+     * #### **ls-a**
 
-    Here, a stands for All Files so, this command lists all files and directories excluding hidden directories & Files too.
+       Here, a stands for All Files so, this command lists all files and directories excluding hidden directories & Files too.
 
-[ls-a example](https://gitlab.com/TejasParab97/missingskillgrind_tejasparab/-/blob/master/Images%20and%20Screenshots/linux%20commands/ls%20commands%20&%20flags/ls_a.png)
+       [ls-a example](https://gitlab.com/TejasParab97/missingskillgrind_tejasparab/-/blob/master/Images%20and%20Screenshots/linux%20commands/ls%20commands%20&%20flags/ls_a.png)
 
-            
+
+     * #### **ls-h**
+
+        Here, h stands for Human so, this command lists all files and directories information in human readable format.
+
+        [ls-h example](https://gitlab.com/TejasParab97/missingskillgrind_tejasparab/-/blob/master/Images%20and%20Screenshots/linux%20commands/ls%20commands%20&%20flags/ls_lh.png)
+
+     * #### **ls-t**
+
+        Here, t stands for Time so, this command lists all files and directories sorted by Timestamp.(newly created files came on top.)
+
+        [ls-t example](https://gitlab.com/TejasParab97/missingskillgrind_tejasparab/-/blob/master/Images%20and%20Screenshots/linux%20commands/ls%20commands%20&%20flags/ls_lt.png)
+
+     
+     * #### **ls-r**
+
+        Here, r stands for Reverse so, this command lists all files and directories in reverse order.
+
+        [ls-r example](https://gitlab.com/TejasParab97/missingskillgrind_tejasparab/-/blob/master/Images%20and%20Screenshots/linux%20commands/ls%20commands%20&%20flags/ls_lr.png)
+
+   * ### cd command & flags
+      * #### **cd..**
+
+        Here, .. stands for one directory back, this command takes you to the one folder back.
+
+        [cd.. example](https://gitlab.com/TejasParab97/missingskillgrind_tejasparab/-/blob/master/Images%20and%20Screenshots/linux%20commands/cd%20commands/cd%20back%20one%20directory.png)
+
+     * #### **cd_**
+
+        Here, _ stands for Previous back, this command takes you to the Previous directory.
+
+        [cd_ example](https://gitlab.com/TejasParab97/missingskillgrind_tejasparab/-/blob/master/Images%20and%20Screenshots/linux%20commands/cd%20commands/cd%20previous%20directory.png)
+
+* ### Mkdir command & flags
+    * #### **mkdir <dir_name /subd_name> -p**
+       
+        Here, Using this command we can create directory with multiple sub-directories inside it.
+
+        [mkdir <dir_name /subd_name> -p example](https://gitlab.com/TejasParab97/missingskillgrind_tejasparab/-/blob/master/Images%20and%20Screenshots/linux%20commands/mkdir%20commands/mkdir_directory%20with%20subdirectory.png)
+
+* ### rm / rmdir command & flags
+    * #### **mkdir <dir_name /subd_name> -p**
+
+
+     
