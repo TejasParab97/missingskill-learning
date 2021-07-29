@@ -141,7 +141,20 @@
         [mkdir <dir_name /subd_name> -p example](https://gitlab.com/TejasParab97/missingskillgrind_tejasparab/-/blob/master/Images%20and%20Screenshots/linux%20commands/mkdir%20commands/mkdir_directory%20with%20subdirectory.png)
 
 * ### rm / rmdir command & flags
-    * #### **mkdir <dir_name /subd_name> -p**
+    * #### **rm-rf**
 
+        Here, r stands for Recursive & f stands for Force.
+        using this command, we can delete folders which has consists of of files and sub-directories in it.
+        >rmdir command only delete empty directories.
+        if you add * after rm then it delete all the files and folders from current directory.
+
+        [rm-rf example](https://gitlab.com/TejasParab97/missingskillgrind_tejasparab/-/blob/master/Images%20and%20Screenshots/linux%20commands/rm%20%20or%20rmdir%20commands/rm%20all%20f&f.png)
+
+* ### mv command & flags
+    * #### **mv (source-value) (new-value) file-name**
+
+        We can use this commad to rename the file.first select desired file and then provide suitable name for the file.
+
+        [mv as rename example](https://gitlab.com/TejasParab97/missingskillgrind_tejasparab/-/blob/master/Images%20and%20Screenshots/linux%20commands/mv%20commands/mv_as%20rename.png)
 
      
