@@ -22,7 +22,7 @@
 
  ---
  
- **_ADVANNTAGES OF LINUX_**
+ **_ADVANTAGES OF LINUX_**
  
  1. ###  Free Software Licensing
 
@@ -50,7 +50,7 @@
        - Arch Linux
        - android
 
-3. Lag free & More Secure
+3. ### Lag free & More Secure
 
    * compared to windows operating system, Linux is most lightweight & comfortable for users. You can perform your tasks very smoothly.  
    * Linux is more secure than windows beacuase we can install applications just by passing the command
@@ -89,3 +89,15 @@
 |exit|-|Exit the Terminal.
 
 ---
+
+
+**_LINUX COMMANDS & THEIR FLAGS WITH EXAMPLE_**
+
+ ## (1) ls command & flags
+* ### **ls-a**
+
+    Here, a stands for All Files so, this command lists all files and directories excluding hidden directories & Files too.
+
+![ls-a example](https://gitlab.com/TejasParab97/missingskillgrind_tejasparab/-/blob/master/Images%20and%20Screenshots/linux%20commands/ls%20commands%20&%20flags/ls_a.png)
+
+            
