@@ -22,15 +22,15 @@
 
  ---
  
- **(3) _ADVANTAGES OF LINUX_**
+ ### **(3) ADVANTAGES OF LINUX**
  
- 1. ###  Free Software Licensing
+ 1. **Free Software Licensing**
 
     * Linux kernel is open source and free so users can use Linux completely free without paying any money.
     * Because of free licensing, Linux os is mostly used in commercial places such as, Schools, I.T. Companies, etc.
 
 
-2. ### Open Source
+2. **Open Source**
    * Linux Kernel(code) is available for everyone. So, programmers can add his own features or modify applications by modifying the source code.
    * Linux is open source that's why many developers stared their own operating system based on Linux
    In  **2020**, almost 99% of technologies working on Linux kernel. currently , there are around **4000** Linux distribtions are avilable in market.
@@ -50,7 +50,7 @@
        - Arch Linux
        - android
 
-3. ### Lag free & More Secure
+3. **Lag free & More Secure**
 
    * compared to windows operating system, Linux is most lightweight & comfortable for users. You can perform your tasks very smoothly.  
    * Linux is more secure than windows beacuase we can install applications just by passing the command
