@@ -157,4 +157,55 @@
 
         [mv as rename example](https://gitlab.com/TejasParab97/missingskillgrind_tejasparab/-/blob/master/Images%20and%20Screenshots/linux%20commands/mv%20commands/mv_as%20rename.png)
 
+
+---
+
+**(6) _LINUX FILE STRUCTURE_**
+  
+   *  In Linux based Operating systems, **Every program, commands and  Executable Files** considered as **File*
+   * In Linux Every file comes under the **ROOT** Folder.
+   Linux follows hierarchical file structure.
+   * so, **Root** folder are works like root of trees. and user folders are branches of Root folder.
+   * if you want to enter in your system's root directory, then use following command:-
+   
+   ```
+   cd/
+   ```
+   * / denotes ROOT DIRECTORY
      
+     ~ denotes USER DIRECTORY
+
+   
+   * If you are in user's directory then, you will see (**$**) sign in your terminal but,
+   If you are in root directory then, you will see (**#**)sign in your terminal.
+
+
+     
+   * **tail-100f** command is used for achieve log of all files in system.
+   here , _100_ stands for last 100 lines.
+
+
+   [Linux File Structure Image](https://gitlab.com/TejasParab97/missingskillgrind_tejasparab/-/blob/master/Images%20and%20Screenshots/Linux%20file%20structure.jpg)
+
+   ---
+
+   ### **Root Directory Folders**
+
+   | Folder Name  | Description     |
+   |:-------------: | :-----------------:|
+   |      /bin        |  user's binary files are stored here (**Commands & Application files**)            |
+   | /boot | System's Kernel & boot files stored here |
+   |/sbin |system binary files are stored(**Root user/System's Admin**) |
+   |/dev | External Devices like PenDrive,Mouse,etc. are mounted |
+   | /home|All Users as well as their data stored here |
+   |/usr |User's system directory, User related resources stored here |
+   | /root| Root user's data stored here|
+   | /var|System level Variable (**Log & Configuration Files**)stored here |
+   |/sys | Device informations are stored and modified
+   | /tmp| Temporary files are stored here|
+   | /etc|System software's configuration and binary files are stored here
+   |/lib | shared system's libraries are stored here|
+   | /proc|show current system's information |
+   |/opt |Third party software's files are stored |
+
+   ---
