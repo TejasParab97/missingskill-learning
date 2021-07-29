@@ -98,6 +98,6 @@
 
     Here, a stands for All Files so, this command lists all files and directories excluding hidden directories & Files too.
 
-![ls-a example](https://gitlab.com/TejasParab97/missingskillgrind_tejasparab/-/blob/master/Images%20and%20Screenshots/linux%20commands/ls%20commands%20&%20flags/ls_a.png)
+[ls-a example](https://gitlab.com/TejasParab97/missingskillgrind_tejasparab/-/blob/master/Images%20and%20Screenshots/linux%20commands/ls%20commands%20&%20flags/ls_a.png)
 
             
