@@ -1,6 +1,6 @@
 #  Linux
 
-**(1) _HISTORY OF UNIX_**
+### **(1) HISTORY OF UNIX**
 
  * In 1970 , **BellLab** started resrearch on computers. During 1 years of research they created system known as **UNIX**.but , they are very costly.
  * In 1980 , One of the researcher **Richard Stallman** from _MIT UNIVERSITY_ started his research on free software.
@@ -10,7 +10,7 @@
 
  ___
  
- **(2) _INTRODUCTION TO LINUX_**
+ ### **(2) INTRODUCTION TO LINUX**
 
  * In 1990, Finnish (Finland) Scientist named as , **Linus torvalds** doing some research on Maths & Physics , during research He introduced new Kernel known as **Linux**.
  >Kernel is nothing but, core of operating system. 
@@ -63,7 +63,7 @@
 
 ---
 
-**(4) _LINUX BASIC COMMANDS_**
+### **(4) LINUX BASIC COMMANDS**
 
 | Command  |  Satnds For |  Function                       |
 | :-------:  | :-----------: | ------------------:                         |
@@ -91,7 +91,8 @@
 ---
 
 
-**(5) _LINUX COMMANDS & THEIR FLAGS WITH EXAMPLE_**
+### **(5) LINUX COMMANDS & THEIR FLAGS WITH EXAMPLE**
+
 
    * ### ls command & flags
      * #### **ls-a**
@@ -160,7 +161,7 @@
 
 ---
 
-**(6) _LINUX FILE STRUCTURE_**
+### **(6) LINUX FILE STRUCTURE**
   
    *  In Linux based Operating systems, **Every program, commands and  Executable Files** considered as **File*
    * In Linux Every file comes under the **ROOT** Folder.
