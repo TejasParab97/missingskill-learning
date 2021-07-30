@@ -184,9 +184,11 @@
      
    * **tail-100f** command is used for achieve log of all files in system.
    here , _100_ stands for last 100 lines.
+   
+   
 
 
-    <img src="Images and Screenshots/Linux file structure.jpg">
+   <img src="Images and Screenshots/Linux file structure.jpg">
 
    ---
 
