@@ -99,47 +99,50 @@
 
        Here, a stands for All Files so, this command lists all files and directories excluding hidden directories & Files too.
 
-       [ls-a example](https://github.com/TejasParab97/missingskill-learning/blob/master/Images%20and%20Screenshots/linux%20commands/ls%20commands%20%26%20flags/ls_a.png)
+       <img src="Images and Screenshots/linux commands/ls commands & flags/ls_a.png">
 
 
      * #### **ls-h**
 
         Here, h stands for Human so, this command lists all files and directories information in human readable format.
 
-        [ls-h example](https://github.com/TejasParab97/missingskill-learning/blob/master/Images%20and%20Screenshots/linux%20commands/ls%20commands%20%26%20flags/ls_lh.png)
+       <img src="Images and Screenshots/linux commands/ls commands & flags/ls_lh.png">
+
 
      * #### **ls-t**
 
         Here, t stands for Time so, this command lists all files and directories sorted by Timestamp.(newly created files came on top.)
 
-        [ls-t example](https://github.com/TejasParab97/missingskill-learning/blob/master/Images%20and%20Screenshots/linux%20commands/ls%20commands%20&%20flags/ls_lt.png)
+        <img src="Images and Screenshots/linux commands/ls commands & flags/ls_lt.png">
+
 
      
      * #### **ls-r**
 
         Here, r stands for Reverse so, this command lists all files and directories in reverse order.
 
-        [ls-r example](https://github.com/TejasParab97/missingskill-learning/blob/master/Images%20and%20Screenshots/linux%20commands/ls%20commands%20&%20flags/ls_lr.png)
+        <img src="Images and Screenshots/linux commands/ls commands & flags/ls_lr.png">
+
 
    * ### cd command & flags
       * #### **cd..**
 
         Here, .. stands for one directory back, this command takes you to the one folder back.
 
-        [cd.. example](https://github.com/TejasParab97/missingskill-learning/blob/master/Images%20and%20Screenshots/linux%20commands/cd%20commands/cd%20back%20one%20directory.png)
+        <img src="Images and Screenshots/linux commands/cd commands/cd back one directory.png">
 
      * #### **cd_**
 
         Here, _ stands for Previous back, this command takes you to the Previous directory.
 
-        [cd_ example](https://github.com/TejasParab97/missingskill-learning/blob/master/Images%20and%20Screenshots/linux%20commands/cd%20commands/cd%20previous%20directory.png)
+        <img src="Images and Screenshots/linux commands/cd commands/cd previous directory.png">
 
 * ### Mkdir command & flags
     * #### **mkdir <dir_name /subd_name> -p**
        
         Here, Using this command we can create directory with multiple sub-directories inside it.
 
-        [mkdir <dir_name /subd_name> -p example](https://github.com/TejasParab97/missingskill-learning/blob/master/Images%20and%20Screenshots/linux%20commands/mkdir%20commands/mkdir_directory%20with%20subdirectory.png)
+        <img src="Images and Screenshots/linux commands/mkdir commands/mkdir_directory with subdirectory.png">
 
 * ### rm / rmdir command & flags
     * #### **rm-rf**
@@ -149,7 +152,7 @@
         >rmdir command only delete empty directories.
         if you add * after rm then it delete all the files and folders from current directory.
 
-        [rm-rf example](https://github.com/TejasParab97/missingskill-learning/blob/master/Images%20and%20Screenshots/linux%20commands/rm%20%20or%20rmdir%20commands/rm%20all%20f&f.png)
+         <img src="Images and Screenshots/linux commands/rm or rmdir commands/rm all f&f.png">
 
 * ### mv command & flags
     * #### **mv (source-value) (new-value) file-name**
