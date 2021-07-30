@@ -186,7 +186,7 @@
    here , _100_ stands for last 100 lines.
 
 
-   [Linux File Structure Image](https://github.com/TejasParab97/missingskill-learning/blob/master/Images%20and%20Screenshots/Linux%20file%20structure.jpg)
+    <img src="Images and Screenshots/Linux file structure.jpg">
 
    ---
 
