@@ -150,7 +150,7 @@
         Here, r stands for Recursive & f stands for Force.
         using this command, we can delete folders which has consists of of files and sub-directories in it.
         
-         <img src="Images and Screenshots/linux commands/rm or rmdir commands/rm.png">
+         <img src="Images and Screenshots/linux commands/rm commands/rm all fandf.png">
 
 * ### mv command & flags
     * #### **mv (source-value) (new-value) file-name**
