@@ -149,17 +149,15 @@
 
         Here, r stands for Recursive & f stands for Force.
         using this command, we can delete folders which has consists of of files and sub-directories in it.
-        >rmdir command only delete empty directories.
-        if you add * after rm then it delete all the files and folders from current directory.
-
-         <img src="Images and Screenshots/linux commands/rm or rmdir commands/rm all f&f.png">
+        
+         <img src="Images and Screenshots/linux commands/rm or rmdir commands/rm.png">
 
 * ### mv command & flags
     * #### **mv (source-value) (new-value) file-name**
 
         We can use this commad to rename the file.first select desired file and then provide suitable name for the file.
 
-        [mv as rename example](https://github.com/TejasParab97/missingskill-learning/blob/master/Images%20and%20Screenshots/linux%20commands/mv%20commands/mv_as%20rename.png)
+        <img src="Images and Screenshots/linux commands/mv commands/mv_as rename.png">
 
 
 ---
