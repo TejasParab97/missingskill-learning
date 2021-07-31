@@ -86,6 +86,9 @@
     ```
      git status
     ``` 
+    
+
+
     this command will check your repo's status. so, just now you created some files and made some changes in it then, terminal shows you a message as untracked file and it will show you the name of the file you added or modified in red color like below image
 
 
