@@ -3,26 +3,43 @@
 ### **(1) HISTORY OF UNIX**
 
  * In 1970 , **BellLab** started resrearch on computers. During 1 years of research they created system known as **UNIX**.but , they are very costly.
+ <br>
+
  * In 1980 , One of the researcher **Richard Stallman** from _MIT UNIVERSITY_ started his research on free software.
+ <br>
+
  * In 1985 , **Richard Stallman** started Non-Profit Organization names as, **FSR(_Free Software Foundation_)**.
 
  >Without Free Software Foundation we are unable to learn about different new technologies. That's why **Richard Stallman** known as _Father_ of free software technology.
 
+ <br>
+
  ___
- 
+ <br>
+
  ### **(2) INTRODUCTION TO LINUX**
+ <br>
 
  * In 1990, Finnish (Finland) Scientist named as , **Linus torvalds** doing some research on Maths & Physics , during research He introduced new Kernel known as **Linux**.
  >Kernel is nothing but, core of operating system. 
  * Linux is completely free as well as GNU is free beacause of that, many developers and researchers started to contribute different packages of GNU project.
+ <br>
+
  * _GNU_ & _LINUX_ came together and they developed **GNU/Linux** O.S. this is the first Operating system on Linux Kernel.
 
  <img src="Images and Screenshots/Linux History.jpg">
 
+ 
+ <br>
+ <br>
+
+
 
  ---
+ <br>
  
  ### **(3) ADVANTAGES OF LINUX**
+ <br>
  
  1. **Free Software Licensing**
 
@@ -61,9 +78,13 @@
        ```
        insted of downloading .exe file and then install it in windows.and sometimes .exe file comes with malware or virus. so we can easily insatll application on linux without harm our system.
 
+       <br>
+
 ---
+<br>
 
 ### **(4) LINUX BASIC COMMANDS**
+<br>
 
 | Command  |  Satnds For |  Function                       |
 | :-------:  | :-----------: | ------------------:                         |
@@ -89,9 +110,11 @@
 |exit|-|Exit the Terminal.
 
 ---
+<br>
 
 
 ### **(5) LINUX COMMANDS & THEIR FLAGS WITH EXAMPLE**
+<br>
 
 
    * ### ls command & flags
@@ -122,6 +145,9 @@
         Here, r stands for Reverse so, this command lists all files and directories in reverse order.
 
         <img src="Images and Screenshots/linux commands/ls commands & flags/ls_lr.png">
+        <br>
+        <br>
+        
 
 
    * ### cd command & flags
@@ -136,6 +162,8 @@
         Here, _ stands for Previous back, this command takes you to the Previous directory.
 
         <img src="Images and Screenshots/linux commands/cd commands/cd previous directory.png">
+        <br>
+        <br>
 
 * ### Mkdir command & flags
     * #### **mkdir <dir_name /subd_name> -p**
@@ -143,6 +171,8 @@
         Here, Using this command we can create directory with multiple sub-directories inside it.
 
         <img src="Images and Screenshots/linux commands/mkdir commands/mkdir_directory with subdirectory.png">
+        <br>
+        <br>
 
 * ### rm / rmdir command & flags
     * #### **rm-rf**
@@ -151,6 +181,8 @@
         using this command, we can delete folders which has consists of of files and sub-directories in it.
         
          <img src="Images and Screenshots/linux commands/rm commands/rm all fandf.png">
+         <br>
+        <br>
 
 * ### mv command & flags
     * #### **mv (source-value) (new-value) file-name**
@@ -158,15 +190,26 @@
         We can use this commad to rename the file.first select desired file and then provide suitable name for the file.
 
         <img src="Images and Screenshots/linux commands/mv commands/mv_as rename.png">
+        <br>
+        <br>
 
 
 ---
 
+<br>
+
 ### **(6) LINUX FILE STRUCTURE**
+
+<br>
+
   
    *  In Linux based Operating systems, **Every program, commands and  Executable Files** considered as **File*
+   <br>
+
    * In Linux Every file comes under the **ROOT** Folder.
    Linux follows hierarchical file structure.
+   <br>
+
    * so, **Root** folder are works like root of trees. and user folders are branches of Root folder.
    * if you want to enter in your system's root directory, then use following command:-
    
@@ -185,13 +228,20 @@
      
    * **tail-100f** command is used for achieve log of all files in system.
    here , _100_ stands for last 100 lines.
-   
+   <br>
+   <br>
+   <br>
    
 
 
    <img src="Images and Screenshots/Linux file structure.jpg">
+   
+   <br>
+        <br>
 
    ---
+   <br>
+        <br>
 
    ### **Root Directory Folders**
 
