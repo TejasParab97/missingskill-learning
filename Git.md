@@ -69,3 +69,28 @@
  ### **(4) GIT WORKFLOW**
 
  * To Create a new repository for your work first you need to create your own account on **GITLAB** _Or_ **GITHUB**. These services will  help you to store your project files on server.
+ * Once, you successfully crearted account , Go to New Project and give suitable name for your project and do configurations.
+ * Then , create a folder in your local system to save Git repository's files.
+ * Once, you created folder, If you are using Linux machine then you can do it on Terminal. but, if you are windows user, then you need to use GitBash.
+ * Now, redirect to your repo's directory/folder through termianl which you just created
+ Type, **git init** .
+ this command will create a hidden folder named **.git** in your repo's folder just like shown in below image:
+  >If you use ls -la, then this folder visible to you.
+
+  <br>
+  <img src="Images and Screenshots/git commands/git init.png">
+
+* Now , add the files in the folder whichever you want add some content in it. and then, again go to your terminal/Console window and enter the command:
+ <br>
+
+    ```
+     git status
+    ``` 
+    this command will check your repo's status. so, just now you created some files and made some changes in it then, terminal shows you a message as untracked file and it will show you the name of the file you added or modified in red color like below image
+
+
+<br>
+<img src="Images and Screenshots/git commands/git_status untracked file.png">
+
+
+
