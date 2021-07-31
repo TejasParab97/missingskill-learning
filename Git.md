@@ -81,15 +81,17 @@
   <img src="Images and Screenshots/git commands/git init.png">
 
 * Now , add the files in the folder whichever you want add some content in it. and then, again go to your terminal/Console window and enter the command:
+
+```
+git status
+```
  <br>
 
-    ```
-     git status
-    ``` 
+   
     
+ 
 
-
-    this command will check your repo's status. so, just now you created some files and made some changes in it then, terminal shows you a message as untracked file and it will show you the name of the file you added or modified in red color like below image
+this command will check your repo's status. so, just now you created some files and made some changes in it then, terminal shows you a message as untracked file and it will show you the name of the file you added or modified in red color like below image
 
 
 <br>
