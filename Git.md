@@ -88,14 +88,54 @@ git status
  <br>
 
    
-    
- 
-
+  
 this command will check your repo's status. so, just now you created some files and made some changes in it then, terminal shows you a message as untracked file and it will show you the name of the file you added or modified in red color like below image
 
 
 <br>
 <img src="Images and Screenshots/git commands/git_status untracked file.png">
+
+ <br>
+ <br>
+
+
+
+* Now, if you want to add changes to your remote server and to track your modified or newly added file enter following command:
+
+ ```
+ git add <file-name>
+ ```
+
+   If you want to add all files then enter:
+
+```
+git add .
+```
+<br>
+
+this command will add all the modified files into your repository. and now file status is changed from untarcked to tracked.now , if you enter **git status** then, you will see prviously shown filename shown in red turned into green. that means now your file successfully tracked on server.
+
+<br>
+<img src="Images and Screenshots/git commands/git_status tracked file.png">
+
+<br>
+<br>
+
+* Now , you will see on above image your files are tracked bit there is message i.e. changes to be commited that means all the changes you made in your file are still not commited so, if you want to commit the changes, then enter following command:
+
+```
+git commit -m "changes commited"
+```
+
+<br>
+
+this command will commits all the changes you have made.
+
+<br>
+<img src="Images and Screenshots/git commands/register file in git repo.png">
+
+
+      
 
 
 
