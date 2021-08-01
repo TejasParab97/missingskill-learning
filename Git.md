@@ -134,6 +134,43 @@ this command will commits all the changes you have made.
 <br>
 <img src="Images and Screenshots/git commands/register file in git repo.png">
 
+<br>
+<br>
+
+* Now, if you enter **git status** command, you will see a message '_your branch is ahead of origin-master_'. here, **origin** is server & **master** is your branch. 
+<br>
+<img src="Images and Screenshots/git commands/git status after commit.png">
+
+<br>
+
+* now , if you want to push changes to your origin-master branch , then enter following command:
+
+```
+git push origin master
+```
+
+<br>
+
+<img src="Images and Screenshots/git commands/git push origin master.png">
+
+<br>
+
+*now , all your files are updated on your master branch to verify that, re-enter the **git status** command, now you can see the message i.e. '_your branch is up to date with origin/master_'.
+
+<br>
+
+
+<img src="Images and Screenshots/git commands/git status after register file.png">
+
+<br>
+<br>
+<br>
+
+<img src="Images and Screenshots/Git flow.jpg">
+
+
+
+
 
       
 
