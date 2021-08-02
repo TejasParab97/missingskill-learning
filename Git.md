@@ -168,6 +168,52 @@ git push origin master
 
 <img src="Images and Screenshots/Git flow.jpg">
 
+<br>
+<br>
+
+---
+
+<br>
+
+* git show:
+
+  This command is shows log of changes we made in file by using commit id reference of specific commit.
+
+
+
+  <img src="Images and Screenshots/git commands/git show.png">
+
+  <br>
+  <br>
+
+* git branch commands:
+  
+  * git branch:
+     
+     lists all the branches available in repository.
+
+  * git branch <branch_name>:
+
+    create a new branch in repository.
+
+    <img src="Images and Screenshots/git commands/git-create new branch.png">
+
+    <br>
+
+  * git checkout <branch_name>;
+
+    switch between two branches.
+
+    <img src="Images and Screenshots/git commands/git status after register file.png">
+
+    <br>
+    <br>
+
+* git log:
+
+  lists all the changes commited in repository and each commit has special commit id.
+
+  <img src="Images and Screenshots/git commands/git_log.png">
 
 
 
