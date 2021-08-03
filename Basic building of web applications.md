@@ -37,19 +37,19 @@
     
  <br>
 
-  $~~~~~$ (I)$~~$ IP Address (IPv4 / IPv6)
+      (I)$~~$ IP Address (IPv4 / IPv6)
 
-  $~~~~~$ (II)$~~$ Ports(HTTP / HTTPS)
+      (II)$~~$ Ports(HTTP / HTTPS)
 
-  $~~~~~$ (III)$~~$ HTTP Verbs / Headres / Status Codes
+      (III)$~~$ HTTP Verbs / Headres / Status Codes
 
-  $~~~~~$ (IV)$~~$ Domain Name / Host
+      (IV)$~~$ Domain Name / Host
 
-  $~~~~~$ (V)$~~$ Software License
+      (V)$~~$ Software License
 
-  $~~~~~$ (VI)$~~$ Code Repositories
+      (VI)$~~$ Code Repositories
 
-  $~~~~~$ (VII)$~~$ Cloud Providers
+      (VII)$~~$ Cloud Providers
 
 
   <br>
@@ -80,25 +80,25 @@
 
    * Classes of IPv4
 
-   $~~~~~$ (I) class A
+        (I) class A
 
-   $~~~~~~~~$  In class A , ranges from 0 to 127. It's mostly used in local systems.
+        In class A , ranges from 0 to 127. It's mostly used in local systems.
 
-   $~~~~~$ (II) class B
+        (II) class B
 
-   $~~~~~~~~$ In class B , ranges from 128 to 191. It's used for Internet.
+        In class B , ranges from 128 to 191. It's used for Internet.
 
-   $~~~~~$ (III) class C
+        (III) class C
 
-   $~~~~~~~~$ In class C , ranges from 192 to 223. It's used in Local Networks.
+        In class C , ranges from 192 to 223. It's used in Local Networks.
 
-   $~~~~~$ (IV) class D
+        (IV) class D
 
-   $~~~~~~~~$ In class D , ranges from 224 to 239. They are reserved ones.
+        In class D , ranges from 224 to 239. They are reserved ones.
 
-   $~~~~~$ (V) class E
+        (V) class E
 
-   $~~~~~~~~$ In class E , ranges from 240 to 255. They are not used.
+        In class E , ranges from 240 to 255. They are not used.
 
 
    <br>
