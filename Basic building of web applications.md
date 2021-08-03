@@ -11,16 +11,16 @@
    
    <br>
 
-   $~~~~~$ Some of the most popular programming langauages:-
+      Some of the most popular programming langauages:-
 
-   * Python
-   * Dart
-   * Javascript
-   * PHP
-   * C++
-   * Java
-   * Swift
-   * Ruby
+        * Python
+        * Dart
+        * Javascript
+        * PHP
+        * C++
+        * Java
+        * Swift
+        * Ruby
 
    So, Programming language mainly divided into two types:-
 
@@ -36,20 +36,23 @@
 
     
  <br>
+ <br>
 
-      (I)$~~$ IP Address (IPv4 / IPv6)
+      (I) IP Address (IPv4 / IPv6)
 
-      (II)$~~$ Ports(HTTP / HTTPS)
+      (II) Ports(HTTP / HTTPS)
 
-      (III)$~~$ HTTP Verbs / Headres / Status Codes
+      (III) HTTP Verbs / Headres / Status Codes
 
-      (IV)$~~$ Domain Name / Host
+      (IV) Domain Name / Host
 
-      (V)$~~$ Software License
+      (V) Software License
 
-      (VI)$~~$ Code Repositories
+      (VI) Database
 
-      (VII)$~~$ Cloud Providers
+      (VII) Code Repositories
+
+      (VIII) Cloud Providers
 
 
   <br>
@@ -191,3 +194,70 @@
      * GPL (Linux)
      * BSD
      * Mozilla 
+
+
+  <br>
+
+
+  ### **(8) DATABASE**
+
+  <br>
+
+
+  * Database is nothibg but organized form of data where we can retrieve , add , update or delete the data. without Databse, you cannot create large applications or websites.
+
+  * There are two types of database:-
+
+    * Relational Database:
+
+      here, data stored in tabular form. In table, thera are rows & columns.
+
+      e.g. MySQL , Posgres , SQL , MariaDB 
+
+    * Non-Relational Database:
+
+      here, database is not in tabular form insted, database uses variety of data models.
+
+      e.g. Mongodb , Redlis , Cassandra , NeoJS
+
+
+    <br>
+
+
+  ### **(9) CODE REPOSITORIES**
+
+
+  <br>
+
+
+
+  *  Code Repositories are the storage where source codes , snippets or software related documents are stored in organized way. Mostly used by developer.
+
+  * Github , Gitlab , Bitbucket , etc. are most popular repositories.
+
+  * Git developer Workflow:
+
+  <img src="Images and Screenshots/git developer workflow.jpg">
+
+
+  <br>
+  <br>
+  <br>
+
+
+  ### **(10) CLOUD PROVIDERS**
+
+  <br>
+
+  * Cloud Providers are third party organizations which provides infrastructure or software services for IT Organizations.
+
+  * In 21st century, cloud is becoming most popular and still growing.
+
+  * Some popular Cloud Providers are:
+
+    * Amazon (AWS)
+    * Google Cloud
+    * IBM
+    * Vultr
+    * Azure , etc.
+
