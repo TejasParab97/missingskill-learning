@@ -37,19 +37,19 @@
     
  <br>
 
-  $~~~~~$(I)$~~$ IP Address (IPv4 / IPv6)
+  $~~~~~$ (I)$~~$ IP Address (IPv4 / IPv6)
 
-  $~~~~~$(II)$~~$ Ports(HTTP / HTTPS)
+  $~~~~~$ (II)$~~$ Ports(HTTP / HTTPS)
 
-  $~~~~~$(III)$~~$ HTTP Verbs / Headres / Status Codes
+  $~~~~~$ (III)$~~$ HTTP Verbs / Headres / Status Codes
 
-  $~~~~~$(IV)$~~$ Domain Name / Host
+  $~~~~~$ (IV)$~~$ Domain Name / Host
 
-  $~~~~~$(V)$~~$ Software License
+  $~~~~~$ (V)$~~$ Software License
 
-  $~~~~~$(VI)$~~$ Code Repositories
+  $~~~~~$ (VI)$~~$ Code Repositories
 
-  $~~~~~$(VII)$~~$ Cloud Providers
+  $~~~~~$ (VII)$~~$ Cloud Providers
 
 
   <br>
