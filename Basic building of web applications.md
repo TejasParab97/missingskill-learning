@@ -1,9 +1,17 @@
 # Basic building of web applications
 
-### **(1) PROGRAMMING LANGUAGES**
 <br>
 
-  Some of the most popular programming langauages:-
+<img src="Images and Screenshots/basic of web development.jpg">
+
+<br>
+<br>
+
+### **(1) PROGRAMMING LANGUAGES**
+   
+   <br>
+
+   Some of the most popular programming langauages:-
 
    * Python
    * Dart
