@@ -233,11 +233,108 @@ Except these all other primitive values are Truthy.
    <br>
    <br>
 
-   ### **(7) PRIMITIVE(COPY BY VALUE) & NON-PRIMITIVE(COPY BY REFERNCE)**
+   ### **(7) PRIMITIVE(COPY BY VALUE) & NON-PRIMITIVE(PASS BY REFERNCE)**
 
    <br>
 
-* In Premitive  
+* In Primitive variables , they are holding the value. It holds the memory location,where values are stored. 
+Primitive variables are using copy by value approach. In simple words, In copy by value , variables are just like xerox machine , when we copy value from passing variable , but it dosen't made changes in passing variable.
+    ```javascript
+    let name = 'sameer';
+    let name2 = name;
+    name2 = 'xyz';
+    console.log(name, name2);
+    ```
+
+   <br>
+
+* In non-primitive variables, they are not copying the value. variables stored values in some memory container and then they passed to another variable by reference.
+In Pass by reference approach, variables are works like Debit/credit cards where we can access multiple cards for same account, so account no. is your reference. when we referencing variable then passing variable also change.
+    ```javascript
+    const person = {
+      name: 'John Cena',
+      age: 80
+    };
+      const captain = person;
+      person.age = 25;
+      console.log(captain, person);
+    ```
+
+<br>
+
+<img src="Images and Screenshots/Javascript Images/premitive and non premitive.jpg">
+
+<br>
+<br>
+<br>
+
+### **(9) ARRAYS AND OBJECTS**
+
+<br>
+
+*  Objects are nothing but , Key-Value pairs. In Javascript, Array is also an Object. Where , Index are keys of array.
+* In Javascript , If you add (.) in front of any variable then, variable turned into class same way , if you add dot(.) in front of array then it becomes array class.
+* Array and Objects are holds both Primitive as well as Non-Primitive data.
+* In Javascript Array , Index works as a key.
+* In Object , Keys are always Strings. and key values can be any type of variable.
+* There are two ways of creating object:
+
+  * By adding key and key value
+  * By using dot notation 
+
+  <br>
+
+  <img src="Images and Screenshots/Javascript Images/javascript variables/create object 2.png">
+  <img src="Images and Screenshots/Javascript Images/javascript variables/create object with array.png">
+
+
+<br>
+<br>
+
+### **(10) FUNCTIONAL AND LEXICAL SCOPE**
+
+* By Default , Java starts with Global functional scope.
+* In Javascript (ES5) when we use **var** for variable then variable get hoisted but, not assigned value.
+* In ES6 , Javascript introduced **let** & **const**. let can be reinitialize but, cannot be redeclared. In const, it has to be initialize as well as declare it because, const cannot be reinitialized neither redeclared.
+* Functional Scope:
+  * The variables declared inside the function cannot be accessed outside. Functional Scope starts with new function.
+
+  * there are two scopes in functional:
+  1. Local Scope:
+
+     - variables declared within the function can only access by function
+
+     - when we add **var** keyword in function then function becomes Local scope so we cannot access the values of outside function.
+
+  2. Global Scope: 
+     
+     - variables declared outside of the function can access by any function
+
+     - The functions which does not have **var** keyword then , that function has also global scope.
+
+    <br>
+
+    <img src="Images and Screenshots/Javascript Images/program/fuctional scope practicals/global and local scope.png">
+
+    <br>
+    <br>
+
+
+* Lexical Scope:
+
+   * Lexical Scope starts with anything which has a curly braces.
+   
+      e.g. If{...}Else{...}Function{}
+
+      <br>
+
+      <img src="Images and Screenshots/Javascript Images/program/lexical scope practicals/lexical scope prac 2.png">
+
+  
+
+
+ 
+
 
 
 
