@@ -326,9 +326,114 @@ In Pass by reference approach, variables are works like Debit/credit cards where
    
       e.g. If{...}Else{...}Function{}
 
-      <br>
+      ```javascript
+      function hello(){ //functional scope
+       if (a){
+          //lexical scope
+       }else{
+          //lexical scope
+       }
+      }
+      ```
 
-      <img src="Images and Screenshots/Javascript Images/program/lexical scope practicals/lexical scope prac 2.png">
+
+  
+  <br>
+
+  <img src="Images and Screenshots/Javascript Images/program/lexical scope practicals/lexical scope prac 2.png">
+
+
+  <br>
+  <br>
+
+### **(11) Functions**
+
+  <br>
+
+* In Javascript , functions are considered as **First Class Citizen** beacause, functions has all the previlages.
+
+* Properties of Functions:
+
+  * Functions are act as container.
+
+  * Functions are get hoisted (In ES5).
+
+  * Functions are also have Global & Local Scope.
+
+  * In Javascript , everything is Object so , functions also considered as Objects.
+
+  * Just like ES5 variables , Functions also gets override.
+
+  * function can be return from another function & pass function as a parameter in another function.
+
+  * There are two ways to declare the function in javascript:
+
+     * Function Declaration
+
+     ```javascript
+     function out(value){
+         console.log("print" , value);
+    }
+    var val = 20;
+    ```
+
+    * Function Assignment
+
+    ```javascript
+    var out = function num(value){
+        console.log("print" , value);
+    }
+    console.log(out , "Rahul");
+    ```
+
+ * In ES6 , they introduced arrow function In arrow function. In ES6, you can't do function declaration , instead you have to use arrow.
+
+    ```javascript
+    var c = () => {
+        a = "hello";
+        console.log(a);
+    }
+    c();
+    ```
+
+    <br>
+    
+
+### **(12) IIFE ( INLINE FUNCTIONS )
+
+<br>
+
+* IIFE stands for Immediately Invokde Function Expression.
+
+* They are the self executing expressions which can only run once. These function worked same like a Private methods in Java.
+
+* syntax:
+```javascript
+(function(){
+
+})();
+```
+
+Example
+
+<img src="Images and Screenshots/Javascript Images/program/funtion/function IIFE.png">
+
+<br>
+
+### **(13) CONSTRUCTORS AND PROTOTYPES**
+
+<br>
+
+In JavaScript, whenever a function is created the prototype property is added to that function automatically. It mimics the Object oriented concept in java. By using prototype property we can attach a method to any object/function constructor. Methods are the part of a class. functions are Independent. 
+
+Example :
+
+<img src="Images and Screenshots/Javascript Images/program/funtion/object prototype.png">
+
+
+
+
+      
 
   
 
