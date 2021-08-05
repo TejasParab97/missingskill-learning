@@ -399,7 +399,7 @@ In Pass by reference approach, variables are works like Debit/credit cards where
     <br>
     
 
-### **(12) IIFE ( INLINE FUNCTIONS )
+### **(12) IIFE ( INLINE FUNCTIONS )**
 
 <br>
 
@@ -429,6 +429,213 @@ In JavaScript, whenever a function is created the prototype property is added to
 Example :
 
 <img src="Images and Screenshots/Javascript Images/program/funtion/object prototype.png">
+
+<br>
+
+### **(14) STRING , ARRAY & OBJECT PROTOTYPES**
+
+<br>
+
+(I) Math Prototypes
+
+<br>
+
+
+ <img src="Images and Screenshots/Javascript Images/program/built-in constructor/Math built-in function.png">
+
+ <br>
+
+ (II) Array Prototypes
+
+   * array.push
+
+     * add new item into array from end
+
+     <br>
+
+     <img src="Images and Screenshots/Javascript Images/program/built-in constructor/arry.push.png">
+
+  * array.pop
+
+    * removes array item from the end of array
+
+    <br>
+
+     <img src="Images and Screenshots/Javascript Images/program/built-in constructor/array.pop.png">
+
+  * array.unshift / shift
+
+    * array unshift adds new item at the first position whereas , shift done reverse It deleted item at the first position
+
+    <br>
+
+     <img src="Images and Screenshots/Javascript Images/program/built-in constructor/array.unshift.png">
+
+     <br>
+
+     <img src="Images and Screenshots/Javascript Images/program/built-in constructor/array.shift.png">
+
+  * array.foreach
+    
+    * prints each value in array using loop.
+
+    <br>
+
+    <img src="Images and Screenshots/Javascript Images/program/built-in constructor/array.foreach.png">
+
+  * array.indexOf
+
+    * Gives index no of specific items in array.
+
+    <br>
+
+    <img src="Images and Screenshots/Javascript Images/program/built-in constructor/array.indexOf.png">
+
+  * array.include
+
+    * In ES6, javascript introduced this function to just check whether the specific item is present in array or not.
+
+    <br>
+
+    <img src="Images and Screenshots/Javascript Images/program/built-in constructor/array.includes.png">
+
+  * array.filter
+
+    * filtering the values of different datatypes.
+
+
+    <br>
+
+    <img src="Images and Screenshots/Javascript Images/program/built-in constructor/array.filter.png">
+
+  * array.concat
+
+      * concatenating two arrays
+
+      <br>
+
+      <img src="Images and Screenshots/Javascript Images/program/built-in constructor/array.concat.png">
+
+  * array.join
+
+    * Coinvertrs array into string.
+
+    <br>
+
+    <img src="Images and Screenshots/Javascript Images/program/built-in constructor/array.join.png">
+
+(III) String Prototypes:
+
+ <br>
+
+
+  * toUpperCase: convert string into lowercase.
+  * toLowerCase: convert string into uppercase.
+  * split: split the string value.
+  * trim: Remove the sapces.
+
+  <br>
+
+  <img src="Images and Screenshots/Javascript Images/program/built-in constructor/String built-in.png">
+
+  ```javascript
+  var text = ("Never Give Up");
+  console.log(text.split(" "));
+  ```
+  <br>
+
+(IV) Math Prototypes
+
+<br>
+
+<img src="Images and Screenshots/Javascript Images/program/built-in constructor/Math built-in function.png">
+
+<br>
+<br>
+
+
+(v) Date Prototypes
+
+<br>
+
+<img src="Images and Screenshots/Javascript Images/program/built-in constructor/date.png">
+
+<br>
+<br>
+
+### **(15) BUILT-IN FUNCTIONS IN ES6**
+
+<br>
+
+   * setTimeout()
+
+      * Deleying code for specific duration of time.
+
+      <br>
+
+      <img src="Images and Screenshots/Javascript Images/inbuilt functions/settimeout.png">
+
+  * setInterval()
+
+     * Exactly works like a setTimeout but, this works in a loop continuously.
+
+     <br>
+
+
+      <img src="Images and Screenshots/Javascript Images/inbuilt functions/setinterval.png">
+
+  * clearInterval()
+
+    * To clear the interval
+
+    <br>
+
+     <img src="Images and Screenshots/Javascript Images/inbuilt functions/clearinterval.png">
+
+  * PasrseInt()
+
+    * Converts any number into integer no.
+
+    <br>
+
+     <img src="Images and Screenshots/Javascript Images/inbuilt functions/parseint.png">
+
+     <br>
+     <br>
+
+
+### **(16) JSON OBJECT BUILT-IN FUNCTION**
+
+<br>
+
+ * JSON.stringify(): converts object into JSON data or string.
+
+ * JSON.parse(): converts json data into Object.
+
+ 
+ <br>
+
+  <img src="Images and Screenshots/Javascript Images/inbuilt functions/jsonstringify.png">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
